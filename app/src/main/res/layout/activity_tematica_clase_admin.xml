@@ -5,7 +5,8 @@
     android:id="@+id/Txt2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Tematica_Clase_Admin">
+    tools:context=".Tematica_Clase_Admin"
+    android:background="#FFFF">
 
     <TextView
         android:id="@+id/Txt1"
@@ -14,7 +15,7 @@
         android:layout_marginTop="32dp"
         android:fontFamily="sans-serif-black"
         android:text="TEMATICAS"
-        android:textColor="#FF9800"
+        android:textColor="#0B22B5"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
